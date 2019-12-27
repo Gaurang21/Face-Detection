@@ -1,2 +1,2 @@
 # Face-Detection
-Face Detection using pre-learn hard classifier
+Face Detection using pre-learn hard classifier.
